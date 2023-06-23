@@ -10,9 +10,11 @@ html {
   background-size: cover;
 }
 
+
 h1 {
   font-size: 2rem;
   color: #e2dbdb;
+  text-align: center;
 
 }
 
@@ -20,6 +22,8 @@ h1 {
   font-weight: 3rem;
   border-radius: 300px;
   text-transform: uppercase;
+  display: block;
+  margin: 0 auto;
 }
 
 .btn-xl {
